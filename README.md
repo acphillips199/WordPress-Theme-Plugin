@@ -5,17 +5,17 @@
 
 3. Create a new file in that folder called "style.css" and add the following code:
 
-/*
-Theme Name: Your Theme Name
-Theme URI: http://your-theme-uri.com/
-Author: Your Name
-Author URI: http://your-author-uri.com/
-Description: A brief description of your theme
-Version: 1.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: responsive-layout, custom-colors, custom-logo
-*/
+   /*
+   Theme Name: Your Theme Name
+   Theme URI: http://your-theme-uri.com/
+   Author: Your Name
+   Author URI: http://your-author-uri.com/
+   Description: A brief description of your theme
+   Version: 1.0
+   License: GNU General Public License v2 or later
+   License URI: http://www.gnu.org/licenses/gpl-2.0.html
+   Tags: responsive-layout, custom-colors, custom-logo
+   */
 
 
 Create a new file in the same folder called "index.php" and add the following code:
