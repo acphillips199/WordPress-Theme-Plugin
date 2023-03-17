@@ -1,8 +1,9 @@
-# WordPress-Theme-Plugin
-Custom WordPress Theme:
 
-Create a new folder in the "wp-content/themes" directory of your WordPress installation and name it whatever you want your theme to be called.
-Create a new file in that folder called "style.css" and add the following code:
+1. Custom WordPress Theme:
+
+2. Create a new folder in the "wp-content/themes" directory of your WordPress installation and name it whatever you want your theme to be called.
+
+3. Create a new file in that folder called "style.css" and add the following code:
 
 /*
 Theme Name: Your Theme Name
